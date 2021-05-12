@@ -49,7 +49,7 @@ body {
 	line-height:20px;
 	color:#000000;
 	font-family:Arial, Helvetica, sans-serif;
-	background: url("./images/xbody_bg.jpg") repeat;
+	background: url("./xbody_bg.jpg") repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -153,7 +153,7 @@ h6 {
 }
 
 #header .banner_img{
-	background: url("./images/header.png")  no-repeat top;
+	background: url("./header.png")  no-repeat top;
 	height:400px;
 	padding:10px 95px 0 95px;
 }
@@ -389,5 +389,5 @@ a.btn:hover{
 /*----fonts----*/
 @font-face {
     font-family: "futura-lt-w01-light";
-    src: local("futura-lt-w01-light"), url("./fonts/Futura LT W01 Light Oblique.ttf") format("truetype");
+    src: local("futura-lt-w01-light"), url("./Futura LT W01 Light Oblique.ttf") format("truetype");
 }
